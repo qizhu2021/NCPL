@@ -1,0 +1,1 @@
+./../ups/data_ham10000/datasets/ISIC_0032898.jpg 2

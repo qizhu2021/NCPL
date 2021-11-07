@@ -1,0 +1,1 @@
+/home/jackie/ResearchArea/SkinCancerResearch/semi_skin_cancer/data_ham10000/datasets/ISIC_0024684.jpg 0
